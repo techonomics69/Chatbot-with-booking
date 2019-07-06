@@ -1,0 +1,88 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "description": "User Management Service. ",
+    "version": "1.0.0",
+    "title": "Dentist Appoinment",
+    "termsOfService": "http://swagger.io/terms/",
+    "contact": {
+      "email": "developer@email.com"
+    },
+    "license": {
+      "name": "Apache 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+    }
+  },
+  "basePath": "/v1",
+  "tags": [
+    {
+      "name": "Appointments"
+    }
+  ],
+  "paths": {
+    "/dentists": {
+      "get": {
+        "tags": [
+          "Appointments"
+        ],
+        "summary": "Gets the available dentists",
+        "description": "",
+        "consumes": [
+          "application/json"
+        ],
+        "produces": [
+          "application/xml",
+          "application/json"
+        ],
+        "responses": {
+          "200": {
+            "description": "ok"
+          },
+          "401": {
+            "description": "Not authenticated"
+          }
+        }
+      }
+    },
+    "/dentist/info/{did}": {
+      "get": {
+        "tags": [
+          "Appointments"
+        ],
+        "summary": "Gets the dentist's info",
+        "description": "",
+        "consumes": [
+          "application/json"
+        ],
+        "produces": [
+          "application/xml",
+          "application/json"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "did",
+            "type": "string",
+            "required": true,
+            "description": "Enter your dentist."
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "ok"
+          },
+          "401": {
+            "description": "Not authenticated"
+          }
+        }
+      }
+    }
+  },
+  "securityDefinitions": {
+    "api_key": {
+      "type": "apiKey",
+      "name": "Auth-Token",
+      "in": "header"
+    }
+  }
+}

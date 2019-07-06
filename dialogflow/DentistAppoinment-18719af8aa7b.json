@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dentistappoinment",
+  "private_key_id": "18719af8aa7b1a2ee62b137c6ea4a427fe4b1105",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDlWWu4DMHQsJ7e\nvV2XgC2Xu14g3YnbJrH5cO0p6KxseBcwxMI7Tu9kU08mI0v9duLmuvc7KvnTnV4u\npfaBExQXSdutzk48CMO3k4aPnJoCfOMpJ7mQlvbKLrYs20TShB3UNY/as3f9GkCJ\n26nUJV4Omo3ysWXs5BPl3z8mV4EQGtg/SyhyA7CCOMQEbQQqBfMul+paVFbCjUC4\nWn43aGCeG9IL45OEKtEeAzw1FKsO9d5T6G9mxfeIIPpkd3AFmoUDUszUQt3owvFc\naFZk5IVze6XL7Axk0Oaq8nQPpJBIOGqOS31KEL+sC+3fUh47BmZRJVoXZ5G89fJ0\nxO7/J5M5AgMBAAECggEAFaxr4M550WAjf06bZdoD1Psso8Pzx11Cg91PWD7H7o8x\nt9bcOREWT9+MkwDSaU8/FYlVHEcNKVmNgTCHWT7FjwbYhvYAUC2O204KcQ9eQX5u\nVCEQKPEPPN+JsTb+a7t2+ysdn1AG9ojw0OZMiAMI/q3N3MG1bVvHYpmEhPnPdUc6\nWs/YxhNrbL8fLsRVWJNK69Q/Bs/98fKoG79wHgOiwjIyhCCf8RN4kdCRnPGVQoyY\noNJtqlQE2g0TgAUkoO5nOqFn/T77A6dP1zmMcs97UfwgJpjpCatjfWRf6WNEcPym\nBWLYFTAp7YdHe6zqe4ZNY79CTN8+KkGESqp0R2XGoQKBgQD2xjJ7FGuG8drefBLc\nQCIlDaxpg89L7stVfd7jTVwLK93ia9I5NX59zJVyDu3HKATS01+FCtE/U5KyVY0A\n3IDkADabQqamWDMixquQESz4MRMgIXSq6QUbvpyp0DKNrOSlU2CyH1dHuAnLUJ+l\nLq7mHIgNoNthTEYyf4HfbZoBUQKBgQDt7HR4FmrT66yx63P0byt9ufJcTjHtTlAB\nuAQsG0dG6ducd0Dv7Cy3oIn5FbPjD0KCcAI5jrKglEqXv7DRJJKUbzo4AsRVInOd\n1BC4N4Iut3DwR/jZCEmcXjWOfJ0+YKCaJZ/tIgNhtPFXj767id2LYnrtKLjEkLwL\njYVS2RI5aQKBgDmn9QNssfLFby2sL3vmQBQILdA5S6WiFT/UOM9Cs86oYR8VsfhL\n11HtCr2rX0K4xue7GwYqkNkK3ats8ZTR8AtVQWzlFaqn0Mq/QDZYzPjv/lfzeR61\ncswYrOHAEw+m5YT7BgyX5fyLsz4diC8/yP1ajS8h9h+1gnEp+V4KbYEBAoGBANjP\nNZ9NBlJRnBCR+BuRxrcOYI2+7/5I891tG9g5j21OpEJj5bf8pw86ayChp0hNWpVU\njqJ2p85u875u/yjGxBAhf5MU6maOO39ihU3pv2bk4TUE0P6tb67fprxOUFhMY220\nxZSo/x3lblwVcICjdFCVEGHXTvBI2CNK9mh1yQapAoGAMb+MOcmP5TxSssCWHUmm\noUjJxIwAoSM7qj/uPPQ1a4U2OFHyZFO6UxvcFp5ip+jNjtaof4ZVWW8AxJDPH2wU\nrQTILy30tBtEQPukKpnuNhppytlRzaRsOkU5sjCW7v1+RVXXQaSq2sqgiRC/nfHC\nJWc/iWvxXRmnVJRPhW0PAuw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-tiaexe@dentistappoinment.iam.gserviceaccount.com",
+  "client_id": "115609356859734194556",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-tiaexe%40dentistappoinment.iam.gserviceaccount.com"
+}

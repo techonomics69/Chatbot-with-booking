@@ -1,0 +1,5 @@
+Flask==1.0.2
+dialogflow==0.5.2
+Flask_Cors==3.0.3
+PyJWT==1.7.1
+Requests==2.21.0
